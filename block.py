@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 20 14:35:53 2018
-
-@author: aviasayag
-"""
-
-
 
 
 """
